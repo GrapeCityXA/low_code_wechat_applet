@@ -1,0 +1,12 @@
+<!-- pages/confirm_login/user_login.wxml -->
+<view class="container">
+    <view class="profile">
+        <button class="avatar-wrapper" open-type="chooseAvatar" bind:chooseavatar="onChooseAvatar">
+            <image class="avatar" src="{{avatarUrl}}" wx:if="{{avatarUrl}}" />
+        </button>
+        <input bindinput="onInputChange" class="nickname" type="nickname" placeholder="请输入昵称">
+            {{nickname}}
+        </input>
+        <button class="get-profile-button" bindtap="onGetUserProfile">保存 & 登录</button>
+    </view>
+</view>
