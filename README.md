@@ -1,5 +1,5 @@
 # 活字格低代码平台对接微信小程序
-
+更多详细信息请访问葡萄城官网：https://www.grapecity.com.cn/solutions/huozige
 
 活字格下载链接：
 https://www.grapecity.com.cn/solutions/huozige/download
@@ -24,4 +24,4 @@ https://www.grapecity.com.cn/solutions/huozige/download
 1.  使用原生微信小程序提供的语法构建；
 2.  微信小程序代码语法可以参考微信帮助手册。
 
-更多详细信息请访问葡萄城官网：https://www.grapecity.com.cn/solutions/huozige
+
