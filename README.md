@@ -1,0 +1,2 @@
+# low_code_wechat_applet
+活字格低代码平台对接微信小程序
